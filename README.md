@@ -1,4 +1,4 @@
-# 🧵 Textile Inventory & Billing Management Syste
+# 🧵 Textile Inventory & Billing Management System
 
 A full-stack web application built for a men's fashion retail store to manage
 inventory, process sales, generate receipts, track reports, and manage staff
